@@ -1,50 +1,47 @@
-## PROFILE : 
-BANNY GATARI - Data Science Student | AI & Machine Learning Enthusiast | Future Quant
-Building real-world projects with Python, statistics & automation. 
-I believe technical skill + economic intelligence = real leverage.
+## Professional Summary
 
-## FOCUSED ON : 
-Currently:
-• Completing Data Science training
-• Building machine learning projects
-• Learning Git, GitHub, and collaborative development
-• Studying statistics for quantitative finance
-• Focusing on Python, statistics, and analytical thinking
+Banny Gatari — Data Science Student | AI & Machine Learning Enthusiast
 
-## Goal:
-Build AI systems that generate economic value.
-Become a high-level Data Scientist working at the intersection of AI and finance.
+I build analytical solutions using Python, statistics, and data-driven thinking.  
+Focused on developing strong foundations in data science and quantitative analysis.
 
-## SKILLS: 
-Languages:
+
+## Current Focus
+
+- Completing formal Data Science training
+- Strengthening Python and SQL proficiency
+- Building small machine learning projects
+- Practicing Git and collaborative workflows
+- Studying statistics for quantitative finance
+
+
+## Skills
+
+### Languages
 - Python
 - SQL
-- HTML/CSS
+- HTML / CSS
 
-Tools:
+### Tools & Libraries
 - Git & GitHub
 - Jupyter Notebook
 - VS Code
-- Pandas & NumPy
+- Pandas
+- NumPy
 
-Learning:
-- Machine Learning
-- Data analytics 
-- Python
-- Statistics
-  <!--Languages:
+### Currently Learning
+- Machine Learning fundamentals
+- Data analysis techniques
+- Statistical modeling
 
-  
-**terah17/terah17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Long-Term Direction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Build AI systems that create measurable economic value.  
+Work at the intersection of data science, machine learning, and finance.
+
+## Connect
+
+- Email: mbuguaterah@gmail.com
+- LinkedIn: www.linkedin.com/in/
+terahmbugua
